@@ -1,6 +1,6 @@
 # JavaScriptの基礎
 ## 演習課題0 
-- 演習には「templete」フォルダにあるコードを利用すること  
+- 演習には「[templete](https://oecu-kozaki-lab.github.io/JS-SPARQL-Exercise/templete.zip)」のコードをダウンロードして利用すること  
 - JavaScriptの基本的な使い方は，[MDNのチュートリアル](https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/JavaScript_basics)，[JavaDriveのJavaScript入門](https://www.javadrive.jp/javascript/)などを参照する
 - 最終的な0-4の動作イメージは[こちら](https://oecu-kozaki-lab.github.io/JS-SPARQL-Exercise/Ex0-4.html)を参照（複数キーワードには未対応）
 
