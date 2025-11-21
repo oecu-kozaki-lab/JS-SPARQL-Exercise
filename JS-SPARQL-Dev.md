@@ -1,6 +1,6 @@
 # JavaScriptを用いたSPARQL処理の発展問題
 ## 演習課題2 
-- 演習には「templete」フォルダにあるコードを利用すること 
+- 演習には「[templete](https://oecu-kozaki-lab.github.io/JS-SPARQL-Exercise/templete.zip)」のコードをダウンロードして利用すること  
 - [演習課題1](https://github.com/oecu-kozaki-lab/JS-SPARQL-Exercise/blob/main/JS-SPARQL-Basic.md)で作成したコードを利用するので先に演習課題1を済ませておくこと 
 - 最終的な2-5の動作イメージは[こちら](https://oecu-kozaki-lab.github.io/JS-SPARQL-Exercise/Ex2-5.html)を参照 
 
