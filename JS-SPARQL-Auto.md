@@ -44,5 +44,6 @@ SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],ja,e
 寝屋川市,人口 
 ```
 のような1行ごとにカンマ区切りで記入したテキストに置き換えて，連続で実行するプログラムを作成しなさい．【Ex4-2.htmlとする】  
-- ヒント：split関数による分割を，複数回，組み合わせて用いる． 
+- ヒント：split関数による分割を，複数回，組み合わせて用いる．
+- `?prop wikibase:directClaim  ?p . ?prop rdfs:label|skos:altLabel "#PROP#"@ja.` は，ラベル（または別名）が`#PROP#"@ja`のプロパティ（?prop）を探して，そのプロパティのSPARQL検索用にID（?p）を取得する処理．
   　
