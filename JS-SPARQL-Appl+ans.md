@@ -1,6 +1,6 @@
 # JavaScriptの可視化ライブラリの利用【解答付き】
 ## 演習課題3 
-- 演習には「templete」フォルダにあるコードを利用すること  
+- 演習には「[templete](https://oecu-kozaki-lab.github.io/JS-SPARQL-Exercise/templete.zip)」のコードをダウンロードして利用すること  
 - 回答例は[「こちら」](https://oecu-kozaki-lab.github.io/JS-SPARQL-Exercise/Ex3-1.html)を参照 
 ### 3-1) d3.jsを用いた棒グラフの表示【仮】【[解答例](https://oecu-kozaki-lab.github.io/JS-SPARQL-Exercise/Ex3-1.html)】
 https://wizardace.com/d3-barchart001/ のサンプルを参考にして，
