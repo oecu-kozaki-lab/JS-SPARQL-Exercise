@@ -1,6 +1,6 @@
 # JavaScriptを用いたSPARQL処理の自動化【解答例】
 ## 演習課題4 
-- 演習には「templete」フォルダにあるコードを利用すること 
+- 演習には「[templete](https://oecu-kozaki-lab.github.io/JS-SPARQL-Exercise/templete.zip)」のコードをダウンロードして利用すること  
 - 回答例は「sample」フォルダを参照 
 ### 4-1) SPARQLクエリの結果表示の汎用化 【[解答例](https://oecu-kozaki-lab.github.io/JS-SPARQL-Exercise/Ex4-1.html)】
 演習課題2-4で作成したプログラム（Ex2-4.html）を利用してSPARQLクエリ
